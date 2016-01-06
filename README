@@ -1,0 +1,11 @@
+This is a Java written applet. DataWindow.java provides the interface for the 
+app. DataContainer.java provides the GUI component that holds the output
+values. DataProcessor.java holds all functions to do calculations at real time.
+These functions are called by DataWindow.java through an action listener of
+button presses. objectdraw.jar is the library used for most of the GUI
+components. The buttons, labels, and text fields used are from swing. Data is
+processed through Java's built-in array list data structure. Since this is an
+applet, it is executed via .html file. This applet can be displayed on web 
+pages. GUI components are called from main libraries using built-in constructors
+and functions I wrote are called in the interface; all implementations of
+object-oriented programming.
