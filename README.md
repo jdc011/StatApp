@@ -1,2 +1,2 @@
 # StatApp
-Statistics calculator applet in Java
+Statistics calculator applet in Java.
